@@ -1,0 +1,16 @@
+D:\VISUAL STUDIO\UDEMY\EXERCISES\ISLApp\ISLApp\obj\Debug\ISLApp.csprojResolveAssemblyReference.cache
+D:\VISUAL STUDIO\UDEMY\EXERCISES\ISLApp\ISLApp\obj\Debug\ISLApp.Login.resources
+D:\VISUAL STUDIO\UDEMY\EXERCISES\ISLApp\ISLApp\obj\Debug\ISLApp.Properties.Resources.resources
+D:\VISUAL STUDIO\UDEMY\EXERCISES\ISLApp\ISLApp\obj\Debug\ISLApp.csproj.GenerateResource.Cache
+D:\VISUAL STUDIO\UDEMY\EXERCISES\ISLApp\ISLApp\obj\Debug\ISLApp.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\UDEMY\EXERCISES\ISLApp\ISLApp\bin\Debug\ISLApp.exe.config
+D:\VISUAL STUDIO\UDEMY\EXERCISES\ISLApp\ISLApp\bin\Debug\ISLApp.exe
+D:\VISUAL STUDIO\UDEMY\EXERCISES\ISLApp\ISLApp\bin\Debug\ISLApp.pdb
+D:\VISUAL STUDIO\UDEMY\EXERCISES\ISLApp\ISLApp\obj\Debug\ISLApp.exe
+D:\VISUAL STUDIO\UDEMY\EXERCISES\ISLApp\ISLApp\obj\Debug\ISLApp.pdb
+D:\VISUAL STUDIO\UDEMY\EXERCISES\ISLApp\ISLApp\obj\Debug\ISLApp.Main.resources
+D:\VISUAL STUDIO\UDEMY\EXERCISES\ISLApp\ISLApp\obj\Debug\ISLApp.AddAccount.resources
+D:\VISUAL STUDIO\UDEMY\EXERCISES\ISLApp\ISLApp\obj\Debug\ISLApp.Confirm.resources
+D:\VISUAL STUDIO\UDEMY\EXERCISES\ISLApp\ISLApp\obj\Debug\ISLApp.AddCompany.resources
+D:\VISUAL STUDIO\UDEMY\EXERCISES\ISLApp\ISLApp\bin\Debug\DB\Database.mdf
+D:\VISUAL STUDIO\UDEMY\EXERCISES\ISLApp\ISLApp\bin\Debug\DB\Database_log.ldf
